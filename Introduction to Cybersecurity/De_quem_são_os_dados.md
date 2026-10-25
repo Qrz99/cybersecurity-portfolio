@@ -224,7 +224,7 @@ Com a Proteção Avançada de Dados ativada, o conteúdo das categorias protegid
 
 ## Relação com a LGPD
 
-Os direitos listados na seção 1.4 (acesso, correção, exclusão e cópia dos dados) conversam com os direitos do titular previstos na **Lei Geral de Proteção de Dados (Lei nº 13.709/2018, art. 18)**, como confirmação de tratamento, acesso, correção, eliminação e portabilidade. [COMPLEMENTAR: comparar um a um os direitos dos Termos com os da LGPD.]
+Os direitos listados na seção 1.4 (acesso, correção, exclusão e cópia dos dados) conversam com os direitos do titular previstos na **Lei Geral de Proteção de Dados (Lei nº 13.709/2018, art. 18)**, como confirmação de tratamento, acesso, correção, eliminação e portabilidade.
 
 ---
 
