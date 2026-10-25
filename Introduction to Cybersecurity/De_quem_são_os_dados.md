@@ -2,10 +2,10 @@
 
 > Laboratório de análise dos Termos de Serviço do iCloud (Apple) com foco em privacidade, segurança e direitos do usuário.
 
-**Autor:** [SEU NOME] · **Data:** [DD/MM/AAAA] · **Termos consultados em:** [DD/MM/AAAA]
+**Autor:** João Victor Queiroz Soares · **Data:** 25/10/2025 · **Termos consultados em:** 25/10/2025.
 **Fonte analisada:** [Termos de Serviço do iCloud](https://www.apple.com/br/legal/internet-services/icloud/br/terms.html)
 
-> ⚠️ Os Termos de Serviço mudam com frequência. As seções citadas (ex.: *Seção II.J*) correspondem à versão consultada na data acima e podem ter sido renumeradas.
+> ⚠️ Os Termos de Serviço mudam com frequência. As seções citadas correspondem à versão consultada na data acima e podem ter sido renumeradas.
 
 ---
 
@@ -113,7 +113,7 @@ Os recursos de **Proteção Avançada de Dados**, **Private Relay** e **Buscar**
 
 **2. Criptografia e proteção de dados**
 
-- **Em trânsito e em repouso:** os dados trocados entre os aparelhos e os servidores da Apple são protegidos por criptografia durante a transmissão e o armazenamento. *[inserir a seção dos Termos correspondente]*
+- **Em trânsito e em repouso:** os dados trocados entre os aparelhos e os servidores da Apple são protegidos por criptografia durante a transmissão e o armazenamento.**
 - **Proteção Avançada de Dados:** com ela ativada, a Apple não possui as chaves para decifrar os dados em caso de perda de acesso *(Seção II.J)*.
 
 **3. Recuperação de conta e legado**
@@ -220,8 +220,6 @@ Com a Proteção Avançada de Dados ativada, o conteúdo das categorias protegid
 - [ ] Ative o recurso Buscar (Find My), para localizar, bloquear ou apagar aparelhos perdidos.
 - [ ] Faça backups regulares e mantenha uma cópia fora do iCloud, já que os Termos deixam essa responsabilidade com o usuário.
 
-> 📸 *Espaço para capturas de tela das configurações ativadas (sem expor dados pessoais):* `docs/img/`
-
 ---
 
 ## Relação com a LGPD
@@ -247,5 +245,5 @@ Ler os termos, ativar os recursos de segurança disponíveis e refletir sobre o 
 
 ## Créditos e aviso
 
-- Estrutura inspirada no laboratório *"Who Owns Your Data?"* da Cisco Networking Academy. [CONFIRMAR e ajustar conforme a origem do exercício.]
+- Estrutura inspirada no laboratório *"Who Owns Your Data?"* da Cisco Networking Academy.
 - Este material é uma análise educacional e **não constitui aconselhamento jurídico**.
