@@ -40,7 +40,7 @@ A trilha cobre fundamentos de cibersegurança, redes, defesa de redes e endpoint
 
 | Laboratório | Curso | Tema | Habilidades |
 |---|---|---|---|
-| [De quem são os dados?](Introduction%20to%20Cybersecurity/De%20quem%20s%C3%A3o%20os%20dados%3F.md) | Introduction to Cybersecurity | Análise dos Termos de Serviço do iCloud: privacidade, segurança e direitos do usuário | Leitura crítica de contratos, privacidade, LGPD, criptografia |
+| [De quem são os dados](Introduction%20to%20Cybersecurity/De%20quem%20s%C3%A3o%20os%20dados%3F.md) | Introduction to Cybersecurity | Análise dos Termos de Serviço do iCloud: privacidade, segurança e direitos do usuário | Leitura crítica de contratos, privacidade, LGPD, criptografia |
 | [Próximo laboratório] | [Curso] | [Tema] | [Habilidades] |
 
 ### Em foco: De quem são os dados?
