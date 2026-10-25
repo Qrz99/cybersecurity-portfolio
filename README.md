@@ -1,2 +1,0 @@
-# cybersecurity-portfolio
-Portfolio profissional
